@@ -25,5 +25,5 @@ A secure and modern Password Manager application built with **React**, **Node.js
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/Shahid-SDE/Password-Manager.git
 cd password-manager
